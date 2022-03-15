@@ -2,7 +2,7 @@
 
 /**
  * _islower - returns 1 when c is lower 0 when c is not lower
- * @c - argument
+ * @c: argument
  *
  * Return: returns 1 on success and 0 on failure
  */
